@@ -1,0 +1,24 @@
+# Pseudocode for Nerve of Steel Game
+
+1. Import the `time` module to allow pauses in the script.
+2. Import the `Image` class to handle image display.
+
+3. Open the image file "times-up.jpeg."
+
+4. Prompt the user to input the countdown time in seconds.
+   - Convert the input to an integer for countdown.
+
+5. Print "Players stand!" to instruct players to stand up.
+
+6. Pause the script for the number of seconds specified by the user.
+
+7. After the countdown ends, print "Time's up!" to notify the players.
+
+8. Display the "times-up.jpeg" image to indicate the end of the game.
+
+9. Prompt the user to enter the name of the last player to sit down.
+
+10. Prompt the user to enter the names of players who are not seated (separated by a semicolon).
+
+11. Print the winner's name (the last player to sit down).
+
